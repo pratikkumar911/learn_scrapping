@@ -1,0 +1,16 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "name of js file",
+  "scripts": {
+    "start": "node name of js file"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.1.1",
+    "xlsx": "^0.17.5"
+  }
+}
